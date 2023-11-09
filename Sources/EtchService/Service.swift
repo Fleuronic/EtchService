@@ -12,6 +12,7 @@ public struct Service<
 > where Database.Store == Store<ReadWrite> {
 	let api: API
 	let database: Database
+	let teamDetailsType: TeamDetails.Type
 
 	public init(
 		api: API,
@@ -20,6 +21,7 @@ public struct Service<
 	) {
 		self.api = api
 		self.database = database
+		self.teamDetailsType = teamDetailsType
 	}
 }
 
