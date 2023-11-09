@@ -6,7 +6,7 @@
       "location" : "https://github.com/Fleuronic/Catena",
       "state" : {
         "branch" : "main",
-        "revision" : "66a8a518270ec6207e467119e10791319f32fcc2"
+        "revision" : "2b1967f7579ebd17a6a5fdf4c1c815b571b058ec"
       }
     },
     {
@@ -15,7 +15,7 @@
       "location" : "https://github.com/Fleuronic/Catenary",
       "state" : {
         "branch" : "main",
-        "revision" : "80e8f3800b0027ee1164f79eac6f2ed903542b61"
+        "revision" : "66499417d2255238ecd5bbe02e1cd98f5063ba57"
       }
     },
     {
@@ -51,7 +51,7 @@
       "location" : "https://github.com/Fleuronic/Etch",
       "state" : {
         "branch" : "main",
-        "revision" : "3fb9ef41745e3829b35cc6d19488e027e8acc306"
+        "revision" : "8280699a61e022a350566a53523b1b754cf7aa05"
       }
     },
     {
