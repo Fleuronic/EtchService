@@ -12,16 +12,13 @@ public struct Service<
 > /*where Database.Store == Store<ReadWrite>*/ {
 	let api: API
 	// let database: Database
-	let teamDetailsType: TeamDetails.Type
 
 	public init(
-		api: API,
+		api: API
 		// database: Database,
-		teamDetailsType: TeamDetails.Type
 	) {
 		self.api = api
 		// self.database = database
-		self.teamDetailsType = teamDetailsType
 	}
 }
 
